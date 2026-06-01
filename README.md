@@ -1,2 +1,2 @@
 # Database-schema-design-proj
-Postgresql database schema design ideas and contributions
+Postgresql TMH compliant database schema design ideas and contributions
